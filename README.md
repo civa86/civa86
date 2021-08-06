@@ -1,6 +1,5 @@
 # Hey 👋, I'm Dario
 
-[![years](https://badges.pufler.dev/years/civa86)](https://github.com/civa86)
 [![repos](https://badges.pufler.dev/repos/civa86)](https://github.com/civa86?tab=repositories)
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=civa86.civa86)](https://github.com/civa86/civa86)
 [![resume](https://img.shields.io/badge/civa86-github.io-green)](https://civa86.github.io)
@@ -93,10 +92,14 @@ I'm in love with the Everything-as-Code philosophy, very focused on DevOps princ
 ![github](https://img.shields.io/badge/-GitHub-%23181717?logo=github&logoColor=FFFFFF&style=for-the-badge)
 ![gitlab](https://img.shields.io/badge/-GitLab-%23FCA121?logo=gitlab&logoColor=FFFFFF&style=for-the-badge)
 ![bitbucket](https://img.shields.io/badge/-BitBucket-%230052CC?logo=bitbucket&logoColor=FFFFFF&style=for-the-badge)
-![abletonlive](https://img.shields.io/badge/-Live-%23000000?logo=abletonlive&logoColor=FFFFFF&style=for-the-badge)
-![nintendoswitch](https://img.shields.io/badge/-Switch-%23E60012?logo=nintendoswitch&logoColor=FFFFFF&style=for-the-badge)
+![abletonlive](https://img.shields.io/badge/-Ableton%20Live-%23000000?logo=abletonlive&logoColor=FFFFFF&style=for-the-badge)
+![nintendoswitch](https://img.shields.io/badge/-Nintendo%20Switch-%23E60012?logo=nintendoswitch&logoColor=FFFFFF&style=for-the-badge)
 
 ## 📈 Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=civa86&theme=nord&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&hide_title=true&hide_border=true&line_height=24)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=civa86&layout=compact&theme=nord&hide_title=true&hide_border=true&langs_count=8)
+<a href="https://github.com/civa86/civa86">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=civa86&&hide_title=true&langs_count=3&theme=nord" />
+</a>
+<a href="https://github.com/civa86/civa86">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=civa86&show_icons=true&line_height=27&count_private=true&hide_title=true&theme=nord" alt="Martin's GitHub Stats" />
+</a>
