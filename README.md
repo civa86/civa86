@@ -1,7 +1,5 @@
 # Hey 👋, I'm Dario
 
-[![repos](https://badges.pufler.dev/repos/civa86)](https://github.com/civa86?tab=repositories)
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=civa86.civa86)](https://github.com/civa86/civa86)
 [![resume](https://img.shields.io/badge/civa86-github.io-green)](https://civa86.github.io)
 [![github](https://img.shields.io/badge/-GitHub-%23181717?logo=github&logoColor=FFFFFF)](https://github.com/civa86)
 [![npm](https://img.shields.io/badge/-NPM-%23CB3837?logo=npm)](https://www.npmjs.com/~civa86)
